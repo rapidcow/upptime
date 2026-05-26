@@ -4,19 +4,24 @@ owner: rapidcow   # <USER>
 repo: upptime     # <REPO>
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: www.rapidcow.org
+    url: https://www.rapidcow.org/
+  - name: status.rapidcow.org
+    url: https://status.rapidcow.org/
+  - name: foss.rapidcow.org
+    url: https://foss.rapidcow.org/
+  - name: ftp.rapidcow.org
+    url: https://ftp.rapidcow.org/pub/lib/perl5/List-Search-0.3_1.tar.gz
+  - name: ns1.rapidcow.net
+    url: https://ns1.rapidcow.org/
+  - name: ns2.rapidcow.net
+    url: https://ns2.rapidcow.org/
+  - name: school site (blegh)
+    url: https://www.endfindme.com/
+  - name: CS school site
+    url: https://pages.cs.wisc.edu/~emeng/
+  - name: neocities
+    url: https://rapidcow.neocities.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,9 +29,14 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Rapidcow's Upptime test
+  introTitle: |
+    Uptime please
+  introMessage: |
+    it's just uptime. nothing to see here. it's not like i serve anybody, do i?
+
+    I do *real* updates at [status.rapidcow.org](https://status.rapidcow.org/).
+    All you'll see here are numbers.  But if that's what you're into, sure...
   navbar:
     - title: Status
       href: /
