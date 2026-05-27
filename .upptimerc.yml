@@ -19,6 +19,7 @@ sites:
     url: https://ns2.rapidcow.net/
   - name: school site (blegh)
     url: https://www.endfindme.com/
+    slug: school-site
   - name: CS school site
     url: https://pages.cs.wisc.edu/~emeng/
   - name: neocities
