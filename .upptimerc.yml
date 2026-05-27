@@ -13,9 +13,9 @@ sites:
   - name: ftp.rapidcow.org
     url: https://ftp.rapidcow.org/pub/lib/perl5/List-Search-0.3_1.tar.gz
   - name: ns1.rapidcow.net
-    url: https://ns1.rapidcow.org/
+    url: https://ns1.rapidcow.net/
   - name: ns2.rapidcow.net
-    url: https://ns2.rapidcow.org/
+    url: https://ns2.rapidcow.net/
   - name: school site (blegh)
     url: https://www.endfindme.com/
   - name: CS school site
