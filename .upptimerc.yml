@@ -6,6 +6,7 @@ repo: upptime     # <REPO>
 sites:
   - name: 'www [dot] rapidcow.org'
     url: https://www.rapidcow.org/
+    slug: www-rapidcow-org
   - name: status.rapidcow.org
     url: https://status.rapidcow.org/
   - name: foss.rapidcow.org
