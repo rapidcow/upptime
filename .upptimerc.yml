@@ -4,7 +4,7 @@ owner: rapidcow   # <USER>
 repo: upptime     # <REPO>
 
 sites:
-  - name: 'www [dot] rapidcow.org'
+  - name: www
     url: https://www.rapidcow.org/
     slug: www-rapidcow-org
 
