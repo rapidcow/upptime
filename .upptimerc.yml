@@ -7,21 +7,38 @@ sites:
   - name: 'www [dot] rapidcow.org'
     url: https://www.rapidcow.org/
     slug: www-rapidcow-org
-  - name: status.rapidcow.org
+
+  - name: www-auth
+    url: https://www-auth.rapidcow.org/
+    slug: www-auth-rapidcow-org
+
+  - name: status
     url: https://status.rapidcow.org/
-  - name: foss.rapidcow.org
+    slug: status-rapidcow-org
+
+  - name: FOSS
     url: https://foss.rapidcow.org/
-  - name: ftp.rapidcow.org
+    slug: foss-rapidcow-org
+
+  - name: ftp
     url: https://ftp.rapidcow.org/pub/lib/perl5/List-Search-0.3_1.tar.gz
-  - name: ns1.rapidcow.net
+    slug: ftp-rapidcow-org
+
+  - name: ns1
     url: https://ns1.rapidcow.net/
-  - name: ns2.rapidcow.net
+    slug: ns1-rapidcow-net
+
+  - name: ns2
     url: https://ns2.rapidcow.net/
+    slug: ns2-rapidcow-net
+
   - name: school site (blegh)
     url: https://www.endfindme.com/
     slug: school-site
+
   - name: CS school site
     url: https://pages.cs.wisc.edu/~emeng/
+
   - name: neocities
     url: https://rapidcow.neocities.org/
 
