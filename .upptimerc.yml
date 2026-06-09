@@ -21,7 +21,7 @@ sites:
     slug: foss-rapidcow-org
 
   - name: ftp
-    url: https://ftp.rapidcow.org/pub/lib/perl5/List-Search-0.3_1.tar.gz
+    url: https://ftp.rapidcow.org/pub/lib/perl5/List-Search-0.4.tar.gz
     slug: ftp-rapidcow-org
 
   - name: ns1
