@@ -1,4 +1,5 @@
 actions/checkout@*,
+actions/setup-node@*,
 benc-uk/workflow-dispatch@*,
 peaceiris/actions-gh-pages@*,
 upptime/updates@*,
