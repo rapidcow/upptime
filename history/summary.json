@@ -4,10 +4,10 @@
     "url": "https://www.rapidcow.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rapidcow.org.ico",
     "slug": "www-rapidcow-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
@@ -15,7 +15,9 @@
     "timeWeek": 298,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-31": 1
+    }
   },
   {
     "name": "www-auth",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www-auth.rapidcow.org.ico",
     "slug": "www-auth-rapidcow-org",
     "status": "up",
-    "uptime": "88.62%",
+    "uptime": "88.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.95%",
     "uptimeMonth": "86.76%",
-    "uptimeYear": "88.62%",
+    "uptimeYear": "88.67%",
     "time": 2745,
     "timeDay": 1152,
     "timeWeek": 3096,
@@ -98,10 +100,10 @@
     "url": "https://ftp.rapidcow.org/pub/lib/perl5/List-Search-0.4.tar.gz",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.rapidcow.org.ico",
     "slug": "ftp-rapidcow-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 241,
@@ -110,7 +112,8 @@
     "timeMonth": 253,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2026-05-29": 36
+      "2026-05-29": 36,
+      "2026-07-31": 1
     }
   },
   {
@@ -118,12 +121,12 @@
     "url": "https://ns1.rapidcow.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ns1.rapidcow.net.ico",
     "slug": "ns1-rapidcow-net",
-    "status": "up",
-    "uptime": "91.20%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.24%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.20%",
+    "uptimeYear": "91.24%",
     "time": 168,
     "timeDay": 231,
     "timeWeek": 189,
@@ -137,7 +140,8 @@
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
-      "2026-06-15": 292
+      "2026-06-15": 292,
+      "2026-07-31": 0
     }
   },
   {
@@ -148,7 +152,7 @@
     "status": "up",
     "uptime": "98.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.77%",
+    "uptimeWeek": "92.56%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "98.78%",
     "time": 188,
@@ -168,9 +172,9 @@
     "url": "https://www.endfindme.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.endfindme.com.ico",
     "slug": "school-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -180,7 +184,8 @@
     "timeMonth": 187,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-05-29": 35
+      "2026-05-29": 35,
+      "2026-07-31": 0
     }
   },
   {
