@@ -1,7 +1,7 @@
 url: https://www-auth.rapidcow.org/
-status: up
-code: 200
-responseTime: 928
-lastUpdated: 2026-08-07T23:21:32.204Z
+status: down
+code: 504
+responseTime: 10700
+lastUpdated: 2026-08-08T02:10:29.639Z
 startTime: 2026-05-29T11:15:57.755Z
 generator: Upptime <https://github.com/upptime/upptime>
