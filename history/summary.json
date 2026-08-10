@@ -27,17 +27,17 @@
     "url": "https://www-auth.rapidcow.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www-auth.rapidcow.org.ico",
     "slug": "www-auth-rapidcow-org",
-    "status": "down",
-    "uptime": "89.19%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "88.62%",
-    "uptimeMonth": "84.67%",
-    "uptimeYear": "89.19%",
-    "time": 3326,
-    "timeDay": 5642,
-    "timeWeek": 5675,
-    "timeMonth": 4561,
-    "timeYear": 3326,
+    "status": "up",
+    "uptime": "89.14%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "88.59%",
+    "uptimeMonth": "84.54%",
+    "uptimeYear": "89.14%",
+    "time": 3303,
+    "timeDay": 4056,
+    "timeWeek": 5249,
+    "timeMonth": 4507,
+    "timeYear": 3303,
     "dailyMinutesDown": {
       "2026-05-29": 36,
       "2026-06-18": 438,
@@ -61,7 +61,7 @@
       "2026-08-04": 254,
       "2026-08-05": 145,
       "2026-08-08": 401,
-      "2026-08-10": 0
+      "2026-08-10": 56
     }
   },
   {
