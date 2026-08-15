@@ -165,16 +165,16 @@
     "url": "https://ns2.rapidcow.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ns2.rapidcow.net.ico",
     "slug": "ns2-rapidcow-net",
-    "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "98.94%",
+    "status": "up",
+    "uptime": "98.92%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "98.92%",
     "time": 181,
-    "timeDay": 262,
-    "timeWeek": 138,
-    "timeMonth": 157,
+    "timeDay": 227,
+    "timeWeek": 145,
+    "timeMonth": 158,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2026-05-31": 88,
@@ -182,7 +182,7 @@
       "2026-07-22": 128,
       "2026-07-24": 830,
       "2026-08-07": 88,
-      "2026-08-15": 0
+      "2026-08-15": 16
     }
   },
   {
