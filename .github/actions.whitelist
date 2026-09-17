@@ -4,4 +4,5 @@ benc-uk/workflow-dispatch@*,
 peaceiris/actions-gh-pages@*,
 upptime/updates@*,
 upptime/uptime-monitor@*,
+actions/create-github-app-token@*
 
